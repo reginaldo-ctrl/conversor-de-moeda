@@ -1,8 +1,8 @@
 body {
-   background-color:  #8c52ff; 
+    background-color: #8c52ff;
 }
 
-img{
+img {
     width: 300px;
     display: block;
     margin-left: auto;
@@ -13,7 +13,7 @@ img{
 div {
     background-color: white;
     width: 500px;
-    padding:20px ;
+    padding: 20px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 25px;
@@ -27,18 +27,18 @@ h1 {
 }
 
 input {
-    width:230px;
+    width: 230px;
     height: 35px;
 }
 
 button {
-  margin-top: 30px;
-  height: 50px;
-  border-radius: 10px;
-  width: 100%;  
-  border: none;
-  background-color: #8c52ff;
-  font-size: 18px;
-  color: white;
-  cursor: pointer;
+    margin-top: 30px;
+    height: 50px;
+    border-radius: 10px;
+    width: 100%;
+    border: none;
+    background-color: #8c52ff;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
 }
